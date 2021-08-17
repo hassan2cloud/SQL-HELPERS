@@ -9,3 +9,6 @@ END;
  
 set timings on;
 SELECT sleep( 900000) from DUAL;  --15 minutes.
+
+
+Wherever you want the line break, use CHR(10)
